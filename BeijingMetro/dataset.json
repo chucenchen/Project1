@@ -1,0 +1,25 @@
+{
+  "joke": [
+    {
+      "q": "How Can You Identify a Bald Eagle?",
+      "a": "All his feathers are combed to one side"
+    },
+    {
+      "q": "What is the network admin favourite lullaby?",
+      "a": "Mary had a little LAN"
+    },
+    {
+      "q": "My son only knows the first 10 letters of the Alphabet",
+      "a": "Turns out we sent him to a pre-k school."
+    },
+
+    {
+      "q": "The CIA has suddenly realized they've been making a horrible mistake",
+      "a": "They've been using black sharpie instead of yellow highlighter for years"
+    },
+    {
+      "q": "Taking the side length that’s opposite of an angle in a right triangle is very much frowned upon.",
+      "a": "It’s considered a sin."
+    }
+  ]
+}
